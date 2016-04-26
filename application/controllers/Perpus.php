@@ -6,6 +6,11 @@
 		{
 			$this->load->view('index');
 		}
+
+		public function about()
+		{
+			$this->load->view('about');
+		}
 	}
 
 	/*
