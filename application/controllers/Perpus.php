@@ -16,6 +16,11 @@
 		{
 			$this->load->view('contact');
 		}
+		
+		public function faq()
+		{
+			$this->load->view('faq');
+		}
 	}
 
 	/*
