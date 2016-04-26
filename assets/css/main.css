@@ -1,0 +1,9 @@
+body {
+	background-color: #e0e0e0;
+}
+
+#menu-login {
+	background-color: #eee;
+	margin-top: 10px;
+	border-radius: 10px 10px 10px 10px;
+}
